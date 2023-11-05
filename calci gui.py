@@ -13,7 +13,7 @@ class Calculator:
         self.create_button("7", 1, 0)
         self.create_button("8", 1, 1)
         self.create_button("9", 1, 2)
-        self.create_button("/", 1, 3))
+        self.create_button("/", 1, 3)
 
         self.create_button("4", 2, 0)
         self.create_button("5", 2, 1)
